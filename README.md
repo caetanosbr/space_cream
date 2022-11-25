@@ -1,7 +1,7 @@
 <h1 align="center"> Mobile first </h1>
 
 <p align="center">
-  <img alt="imagem" src=./assets/pace_scream.jpg>
+  <img alt="imagem" src=./assets/space_scream.png>
 </p>
 
 ---
