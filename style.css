@@ -15,7 +15,6 @@ body {
 }
 
 .page {
- border: 1px solid blue;
  max-width: clamp(38.4rem, 30rem + 60vw, 19.9rem);
  text-align: center;
  padding: 0 auto;

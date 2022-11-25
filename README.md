@@ -1,7 +1,7 @@
 <h1 align="center"> Mobile first </h1>
 
 <p align="center">
-  <img alt="imagem" src=https://efficient-sloth-d85.notion.site/Mobile-first-3355d7df0aa24efcb4287f69b3859928#3823c880f3a44286a55df4a0c909c746>
+  <img alt="imagem" src="./assets/space_scream.png">
 </p>
 
 ---
