@@ -44,9 +44,8 @@ main {
   background: #EFF1FF;
   display: grid;
   gap: 3.2rem;
-  padding-bottom: 10rem;
- 
 }
+
 main .wrapper {
   margin: 1.4rem 3.2rem 6.0rem 3.2rem;
 
