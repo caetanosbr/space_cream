@@ -11,19 +11,18 @@ root {
 body {
   font-family: 'Staatliches', sans-serif;
   margin: 0 200px;
-  
 }
 
 .page {
- max-width: clamp(38.4rem, 30rem + 60vw, 19.9rem);
- text-align: center;
- padding: 0 auto;
+  max-width: clamp(38.4rem, 30rem + 60vw, 19.9rem);
+  text-align: center;
+  padding: 0 auto;
   margin: 0 auto;
 }
 
 header {
   height: 279px;
-  background-color: #8E9AAF;
+  background-color: #8e9aaf;
 }
 
 header h1 {
@@ -36,20 +35,18 @@ header h1 {
   letter-spacing: 0.05em;
 
   margin: 32px auto 29px;
-  background-color: #CBC0D3;
-  color:#FFFFFF;
+  background-color: #cbc0d3;
+  color: #ffffff;
 }
 
 main {
-  background: #EFF1FF;
+  background: #eff1ff;
   display: grid;
   gap: 3.2rem;
-  padding-bottom: 10rem;
- 
 }
-main .wrapper {
-  margin: 1.4rem 3.2rem 6.0rem 3.2rem;
 
+main .wrapper {
+  margin: 1.4rem 3.2rem 6rem 3.2rem;
 }
 
 main p {
@@ -58,7 +55,7 @@ main p {
   font-size: 20px;
   line-height: 1.5rem;
 
-  color: #23053A;
+  color: #23053a;
 
   margin-bottom: 4.6rem;
 }
@@ -68,28 +65,28 @@ main p {
 }
 
 .card img {
-  width: 32.0rem;
+  width: 32rem;
   height: fit-content;
-  
+
   object-fit: cover;
-  border-radius: 2.0rem;
+  border-radius: 2rem;
 
   margin-bottom: 3.2rem;
- }
- 
+}
+
 .card h2 {
-  position:absolute;
+  position: absolute;
   top: 1.6rem;
   right: 1.6rem;
 
-  border-radius:2rem;
-  background-color: #FEEAFA;
+  border-radius: 2rem;
+  background-color: #feeafa;
   font-weight: 400;
-  font-size: 2.0rem;
+  font-size: 2rem;
   line-height: 3.4rem;
-  color: #4A4E69;
+  color: #4a4e69;
 
   padding: 0 2.9rem;
-  
+
   letter-spacing: 0.05em;
 }
