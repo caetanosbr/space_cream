@@ -1,5 +1,7 @@
 <h1 align="center"> Mobile first </h1>
 
+---
+
 <p align="center">
   <img alt="imagem" src=./assets/space_cream.png>
 </p>
